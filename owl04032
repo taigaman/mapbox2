@@ -1,0 +1,873 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          133.176241,
+          35.36603
+        ],
+        "type": "Point"
+      },
+      "id": "00231f059e91820aa70f15defaff3dad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.399473,
+          35.785221
+        ],
+        "type": "Point"
+      },
+      "id": "00d753f7605cc7411175020f260c8686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          138.383024,
+          34.976937
+        ],
+        "type": "Point"
+      },
+      "id": "03c845b9e9dabc2586afdb1ce0445c2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          139.894578,
+          36.576922
+        ],
+        "type": "Point"
+      },
+      "id": "05370b8b1ecbac429fc460ed7a17fbe3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          136.614906,
+          35.63693
+        ],
+        "type": "Point"
+      },
+      "id": "097ca9f7793bb548dfffa929284af496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.453983,
+          35.889213
+        ],
+        "type": "Point"
+      },
+      "id": "0c9dcf3b465a97991b45932596efc77d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          137.610344,
+          35.608074
+        ],
+        "type": "Point"
+      },
+      "id": "0e0cc8ae5d5c0a4f8219f99d74d53b42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          137.23674,
+          36.62692
+        ],
+        "type": "Point"
+      },
+      "id": "137fd9c04a67ed518b448b5f9feaeb9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          131.470498,
+          34.186153
+        ],
+        "type": "Point"
+      },
+      "id": "16ee91d1c45621ff44a7c00c98db48c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.032454,
+          37.885674
+        ],
+        "type": "Point"
+      },
+      "id": "1d574666d13fad7f4a315844ee5c6e60"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          140.131545,
+          36.008278
+        ],
+        "type": "Point"
+      },
+      "id": "1ea10e605ee045430050654ac42f9ff2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.381383,
+          35.620045
+        ],
+        "type": "Point"
+      },
+      "id": "25b39c5ef565e479fca5b61b1b106bdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          134.742757,
+          35.066656
+        ],
+        "type": "Point"
+      },
+      "id": "2635bece77d6961b8d9546505729062b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          136.663044,
+          36.63982
+        ],
+        "type": "Point"
+      },
+      "id": "265a51e8ce01a87d8913a5e5cee71cf8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          133.974728,
+          35.061555
+        ],
+        "type": "Point"
+      },
+      "id": "27d0dac8c306129d264740f5bdad03d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          140.02504,
+          35.878182
+        ],
+        "type": "Point"
+      },
+      "id": "2ea4b92cee14852a6aa3bb04b727bfaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          137.165708,
+          36.247335
+        ],
+        "type": "Point"
+      },
+      "id": "2eaa9fc08673083a5e90c2821218b923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          137.237172,
+          36.152854
+        ],
+        "type": "Point"
+      },
+      "id": "2f12b4d4065111507a107f8524c1a345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          140.099932,
+          36.110819
+        ],
+        "type": "Point"
+      },
+      "id": "2f494ffef1ad96b51f0faafa71e6f365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.766679,
+          35.698622
+        ],
+        "type": "Point"
+      },
+      "id": "35841745d039368a40de7cf25764132f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          136.490838,
+          35.340488
+        ],
+        "type": "Point"
+      },
+      "id": "384fd81cc9fa904f220a7298e7bb1838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          140.119219,
+          35.804315
+        ],
+        "type": "Point"
+      },
+      "id": "3f7aa7be0c5bcc8fea6e233117d4dd62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          137.50177,
+          35.300074
+        ],
+        "type": "Point"
+      },
+      "id": "414bdf93496b463c86b320da9710766b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.932532,
+          38.961857
+        ],
+        "type": "Point"
+      },
+      "id": "46f1366af0676b562b7ec75717d1e46f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          136.912148,
+          35.549565
+        ],
+        "type": "Point"
+      },
+      "id": "48e18a8f222cbd4f1c310dd6049fb01e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          140.912337,
+          38.264941
+        ],
+        "type": "Point"
+      },
+      "id": "48ee7665f9bb2ee97f40394f4921a925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "1_�і쒡�X�ъǗ���"
+      },
+      "geometry": {
+        "coordinates": [
+          130.70209,
+          32.816969
+        ],
+        "type": "Point"
+      },
+      "id": "492425a789ef7037e268841a19d69867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          136.371529,
+          34.658264
+        ],
+        "type": "Point"
+      },
+      "id": "52be880c4aae80b807f03db4611ef5a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "1_�і쒡�X�ъǗ���"
+      },
+      "geometry": {
+        "coordinates": [
+          138.200122,
+          36.63715
+        ],
+        "type": "Point"
+      },
+      "id": "5641454e25488a5bdaed4c4fd449e858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          132.471902,
+          34.465928
+        ],
+        "type": "Point"
+      },
+      "id": "5b61d999893929868427351c640da405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "1_�і쒡�X�ъǗ���"
+      },
+      "geometry": {
+        "coordinates": [
+          140.121066,
+          39.713135
+        ],
+        "type": "Point"
+      },
+      "id": "5e09c736731777a2d3fd065758d7621b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          135.529141,
+          34.308235
+        ],
+        "type": "Point"
+      },
+      "id": "65a2585e0ba546560ea2bbaa0f8d4799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          132.452658,
+          34.386182
+        ],
+        "type": "Point"
+      },
+      "id": "6b3a85fe12a48642620b373ca5a14d3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "1_�і쒡�X�ъǗ���"
+      },
+      "geometry": {
+        "coordinates": [
+          135.518581,
+          34.702252
+        ],
+        "type": "Point"
+      },
+      "id": "6c522fb24f7d872216e5c90dba3a5709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          136.91795,
+          35.555468
+        ],
+        "type": "Point"
+      },
+      "id": "6c7773d2abb8883dc09eaa2b0b10aec4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.74697,
+          35.706569
+        ],
+        "type": "Point"
+      },
+      "id": "6d5217b8809fcce5c556df9a56169e9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          135.332196,
+          34.717928
+        ],
+        "type": "Point"
+      },
+      "id": "6ec98890ec9bb6f730e796ba1f0746c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          104.044929,
+          -3.444345
+        ],
+        "type": "Point"
+      },
+      "id": "7176ef4faf63a1ddd876c26ffcac6ab8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          131.429606,
+          32.430172
+        ],
+        "type": "Point"
+      },
+      "id": "748e304044a9851ca93795280ca97026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "1_�і쒡�X�ъǗ���"
+      },
+      "geometry": {
+        "coordinates": [
+          133.528728,
+          33.560552
+        ],
+        "type": "Point"
+      },
+      "id": "74f43bf1a205b88b512f7ec09b037069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.733907,
+          35.687341
+        ],
+        "type": "Point"
+      },
+      "id": "755dfc443fbc45b813eee5b475d28d5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.761903,
+          35.714157
+        ],
+        "type": "Point"
+      },
+      "id": "78151d5c1785ae847283d2ea057a79f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          133.268891,
+          33.511196
+        ],
+        "type": "Point"
+      },
+      "id": "8341434e74c8978ff262cec46a12d04d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          134.564875,
+          34.084167
+        ],
+        "type": "Point"
+      },
+      "id": "8710b2c24d3ee457a33a83204ad2a563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          135.78434,
+          35.030502
+        ],
+        "type": "Point"
+      },
+      "id": "8963810cde34f20b40fa089ef5675624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          137.158116,
+          35.052387
+        ],
+        "type": "Point"
+      },
+      "id": "8b4ffddf8abb89adb051bc8b1d3838b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          137.114907,
+          35.090738
+        ],
+        "type": "Point"
+      },
+      "id": "9ceefd869b3d4f930b7eb43f19293192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          141.135319,
+          39.704351
+        ],
+        "type": "Point"
+      },
+      "id": "9f2498dc511701595ee5ed9945199479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          132.459876,
+          34.38982
+        ],
+        "type": "Point"
+      },
+      "id": "a2df44b53b9c8b39847f7b026cae1668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.734396,
+          35.677324
+        ],
+        "type": "Point"
+      },
+      "id": "ac99abd63029e21c51512acdccb4ebda"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "4_���c�@�l�A�����@�ցA��w��"
+      },
+      "geometry": {
+        "coordinates": [
+          139.701272,
+          35.535941
+        ],
+        "type": "Point"
+      },
+      "id": "ad76f7cb843aaab2dde567ea77efaf15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "6_���̑�"
+      },
+      "geometry": {
+        "coordinates": [
+          136.725195,
+          34.45906
+        ],
+        "type": "Point"
+      },
+      "id": "b503f42d1ea095de788221a10feb0c99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          137.413108,
+          35.450535
+        ],
+        "type": "Point"
+      },
+      "id": "b7a0a8c016caf90071ea96aeeaffed85"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "1_�і쒡�X�ъǗ���"
+      },
+      "geometry": {
+        "coordinates": [
+          141.303386,
+          43.062706
+        ],
+        "type": "Point"
+      },
+      "id": "b7a5bcbd1329c30b5db65c3f6c63a42a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          130.556353,
+          31.595311
+        ],
+        "type": "Point"
+      },
+      "id": "b7c171b07efe93692bdc8a40767c5727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          132.90023,
+          33.657167
+        ],
+        "type": "Point"
+      },
+      "id": "c69b1164f4d9d74de0af3d0257c5d4b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          137.287857,
+          35.773237
+        ],
+        "type": "Point"
+      },
+      "id": "c6b3d3e861439e2d0d45711cc7907632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          134.112196,
+          35.06004
+        ],
+        "type": "Point"
+      },
+      "id": "cb9f027c13752856643c06502535366c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "2_�n��������"
+      },
+      "geometry": {
+        "coordinates": [
+          139.649,
+          35.85736
+        ],
+        "type": "Point"
+      },
+      "id": "cf49610c7a22c10f604ebe590fc9b086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          130.559075,
+          31.587179
+        ],
+        "type": "Point"
+      },
+      "id": "e380bfc362b94ef6ae3f66334cfde233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "3_�g���֘A"
+      },
+      "geometry": {
+        "coordinates": [
+          136.951622,
+          35.73711
+        ],
+        "type": "Point"
+      },
+      "id": "ef8c6e92e3954b3f99bbb186fb0d237f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "5_���Ԋ��"
+      },
+      "geometry": {
+        "coordinates": [
+          135.519791,
+          34.699901
+        ],
+        "type": "Point"
+      },
+      "id": "fb55e092a339b61dd8feaa22ab6c2907"
+    }
+  ],
+  "type": "FeatureCollection"
+}
