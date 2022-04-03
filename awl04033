@@ -1,0 +1,873 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          140.131545,
+          36.008278
+        ],
+        "type": "Point"
+      },
+      "id": "00e96f94650caf0b084e5a3a4d549ce1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          139.649,
+          35.85736
+        ],
+        "type": "Point"
+      },
+      "id": "028aa8f150543072f28588d532b61b26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          139.453983,
+          35.889213
+        ],
+        "type": "Point"
+      },
+      "id": "04f3c734644c097bcb9c634e506d9d27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          140.02504,
+          35.878182
+        ],
+        "type": "Point"
+      },
+      "id": "0e674492845d93018084a31facc5ce32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          132.452658,
+          34.386182
+        ],
+        "type": "Point"
+      },
+      "id": "11f67896aa6245c2031563b642093a09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          137.413108,
+          35.450535
+        ],
+        "type": "Point"
+      },
+      "id": "1c2ab1865ead8c44b4afe42def769e9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          137.50177,
+          35.300074
+        ],
+        "type": "Point"
+      },
+      "id": "223ff546e5554225f458d07b7a3cb84d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          137.158116,
+          35.052387
+        ],
+        "type": "Point"
+      },
+      "id": "2350b4d7fe33d0809ff5982e456e94aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          134.112196,
+          35.06004
+        ],
+        "type": "Point"
+      },
+      "id": "26e34b7686b30d47d56f9c7a9e083aac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          136.91795,
+          35.555468
+        ],
+        "type": "Point"
+      },
+      "id": "2f426a7b116adedff5d793283af6aa33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          137.287857,
+          35.773237
+        ],
+        "type": "Point"
+      },
+      "id": "35aa83a72b531fcb803477dfea088c49"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          135.78434,
+          35.030502
+        ],
+        "type": "Point"
+      },
+      "id": "39c27d5feaa80753814c01000b1d4c84"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          133.268891,
+          33.511196
+        ],
+        "type": "Point"
+      },
+      "id": "3b00208a4c5ec0a5d463faa1ba0cd875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          134.742757,
+          35.066656
+        ],
+        "type": "Point"
+      },
+      "id": "3d016cf3396bf27ad48ab8ec9972965a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          137.237172,
+          36.152854
+        ],
+        "type": "Point"
+      },
+      "id": "404ca750d878cc4304cf300c72640c57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          135.519791,
+          34.699901
+        ],
+        "type": "Point"
+      },
+      "id": "41cf26a92f8a96c0eebc88f3693e7f20"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          135.332196,
+          34.717928
+        ],
+        "type": "Point"
+      },
+      "id": "443a8b13eb49da5529de95af48153b5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          131.470498,
+          34.186153
+        ],
+        "type": "Point"
+      },
+      "id": "4d403a45ab8544a003afeb1afa663145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "その他"
+      },
+      "geometry": {
+        "coordinates": [
+          136.725195,
+          34.45906
+        ],
+        "type": "Point"
+      },
+      "id": "4d70a8bc1a1e317ee976b9f688a735ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "林野庁森林管理局"
+      },
+      "geometry": {
+        "coordinates": [
+          140.121066,
+          39.713135
+        ],
+        "type": "Point"
+      },
+      "id": "4daf4a44e0006d1e6ec52b14a8d15ba2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          133.974728,
+          35.061555
+        ],
+        "type": "Point"
+      },
+      "id": "4ec83a8ae77fd2fede8babb1c0cd7e66"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          132.459876,
+          34.38982
+        ],
+        "type": "Point"
+      },
+      "id": "4efb0ab094fd7a44bceff52079005500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          132.90023,
+          33.657167
+        ],
+        "type": "Point"
+      },
+      "id": "5389e2e908c1a7bf7601640d7b802540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "林野庁森林管理局"
+      },
+      "geometry": {
+        "coordinates": [
+          133.528728,
+          33.560552
+        ],
+        "type": "Point"
+      },
+      "id": "5d0949217cc7739fd72e1f5d1d4d6af9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          130.556353,
+          31.595311
+        ],
+        "type": "Point"
+      },
+      "id": "5e598785237c2229049779095d6c077a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          139.932532,
+          38.961857
+        ],
+        "type": "Point"
+      },
+      "id": "61475eb99ac05e8decdb12303ae35633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          131.429606,
+          32.430172
+        ],
+        "type": "Point"
+      },
+      "id": "6272fc5f6aac6bc83b24fb11fbdc00ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          136.951622,
+          35.73711
+        ],
+        "type": "Point"
+      },
+      "id": "6c0cd12a2809986ae54b3a712f24d22d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          139.761903,
+          35.714157
+        ],
+        "type": "Point"
+      },
+      "id": "6f80801276a298aa023c0a4fa2092b3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          139.032454,
+          37.885674
+        ],
+        "type": "Point"
+      },
+      "id": "6fc4b2df88e76a10e5e7caad560831c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          140.119219,
+          35.804315
+        ],
+        "type": "Point"
+      },
+      "id": "70e3a3f7abb4a6fff7d1c403887ca8d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          139.766679,
+          35.698622
+        ],
+        "type": "Point"
+      },
+      "id": "81ac9857df29347841c549b31564cf7e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          139.399473,
+          35.785221
+        ],
+        "type": "Point"
+      },
+      "id": "83f8f1106da8f1e1e6985331fc67de07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          139.701272,
+          35.535941
+        ],
+        "type": "Point"
+      },
+      "id": "884165a8c918d6d503093a327198f25e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          132.471902,
+          34.465928
+        ],
+        "type": "Point"
+      },
+      "id": "89eddc90c46e166d79f8e8328d9ba1da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          136.912148,
+          35.549565
+        ],
+        "type": "Point"
+      },
+      "id": "8ad88f1e25a5e8803fde7df6806ee298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          134.564875,
+          34.084167
+        ],
+        "type": "Point"
+      },
+      "id": "9044a0a78b8d4d201a5eefbc0d20c48b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          141.135319,
+          39.704351
+        ],
+        "type": "Point"
+      },
+      "id": "918643c7a4054b17d1e075adb02fc897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          140.099932,
+          36.110819
+        ],
+        "type": "Point"
+      },
+      "id": "9a7365a02d379120575c0cb6ea4b726c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "林野庁森林管理局"
+      },
+      "geometry": {
+        "coordinates": [
+          135.518581,
+          34.702252
+        ],
+        "type": "Point"
+      },
+      "id": "9c8d4fd1038ff3dbfe07de8361d30380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          136.490838,
+          35.340488
+        ],
+        "type": "Point"
+      },
+      "id": "a1048e7381bf1fed53e370b7068cee73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          136.371529,
+          34.658264
+        ],
+        "type": "Point"
+      },
+      "id": "a6ab9d6c5c9064fd6ac2e9f39851b94c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          140.912337,
+          38.264941
+        ],
+        "type": "Point"
+      },
+      "id": "b0900caa82bc4d246771f014b9d54d19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          137.610344,
+          35.608074
+        ],
+        "type": "Point"
+      },
+      "id": "b11e7b4528f893005cdd5de4239a1d87"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          137.114907,
+          35.090738
+        ],
+        "type": "Point"
+      },
+      "id": "b576f9b94cf9bb434eb2b572724ae183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "林野庁森林管理局"
+      },
+      "geometry": {
+        "coordinates": [
+          130.70209,
+          32.816969
+        ],
+        "type": "Point"
+      },
+      "id": "b7e966622c1bde0a05fef5a0126679c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          137.23674,
+          36.62692
+        ],
+        "type": "Point"
+      },
+      "id": "bb648bf117521501588caced59178218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          139.381383,
+          35.620045
+        ],
+        "type": "Point"
+      },
+      "id": "be8c1f1a2b75c3b6204198c27a2a842d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          136.663044,
+          36.63982
+        ],
+        "type": "Point"
+      },
+      "id": "c6582a1904b3f53421ad446522951019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "林野庁森林管理局"
+      },
+      "geometry": {
+        "coordinates": [
+          141.303386,
+          43.062706
+        ],
+        "type": "Point"
+      },
+      "id": "cc6e0659805b751d7b925de264ca9a71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          133.176241,
+          35.36603
+        ],
+        "type": "Point"
+      },
+      "id": "cc91ce2a3b806f953f07cf46946ceae0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          139.74697,
+          35.706569
+        ],
+        "type": "Point"
+      },
+      "id": "d2fc1c3f7a98e42d0be9857e676675fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          137.165708,
+          36.247335
+        ],
+        "type": "Point"
+      },
+      "id": "d4c1dc2e083e0c3b506b9e70c17a563f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          138.383024,
+          34.976937
+        ],
+        "type": "Point"
+      },
+      "id": "e27eb277a7631d3fae00d21e82343881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          135.529141,
+          34.308235
+        ],
+        "type": "Point"
+      },
+      "id": "e4197a740ef1dd963eed4192c299a1b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          104.044929,
+          -3.444345
+        ],
+        "type": "Point"
+      },
+      "id": "eec2ebffbc6a7407ba17ebcaf2d124c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          139.734396,
+          35.677324
+        ],
+        "type": "Point"
+      },
+      "id": "f0b9681835143208702f5e4d0862e0c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "民間企業"
+      },
+      "geometry": {
+        "coordinates": [
+          130.559075,
+          31.587179
+        ],
+        "type": "Point"
+      },
+      "id": "f11e12d35433ac1c9951ec5a5b303a36"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "組合関連"
+      },
+      "geometry": {
+        "coordinates": [
+          136.614906,
+          35.63693
+        ],
+        "type": "Point"
+      },
+      "id": "f2aa739624bc84752d6b10ec9d4ef7c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "地方自治体"
+      },
+      "geometry": {
+        "coordinates": [
+          139.894578,
+          36.576922
+        ],
+        "type": "Point"
+      },
+      "id": "f44234637a1436a00a997f7ca6abea0f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "財団法人、研究機関、大学等"
+      },
+      "geometry": {
+        "coordinates": [
+          139.733907,
+          35.687341
+        ],
+        "type": "Point"
+      },
+      "id": "fa0440c38a309154fb1009a0aa6977dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bunrui": "林野庁森林管理局"
+      },
+      "geometry": {
+        "coordinates": [
+          138.200122,
+          36.63715
+        ],
+        "type": "Point"
+      },
+      "id": "fe3bf563ca2a5b7e5d702432a6e7b98d"
+    }
+  ],
+  "type": "FeatureCollection"
+}
