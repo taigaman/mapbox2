@@ -1,0 +1,245 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "あいうえお倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.263241,
+          35.431766
+        ],
+        "type": "Point"
+      },
+      "id": "0386ce962c839049858622d3d437daf9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "はひふへほ倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.350116,
+          35.325166
+        ],
+        "type": "Point"
+      },
+      "id": "0d30b048f27a851aeb9341e5466be009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "さしすせそ倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.49204,
+          35.285857
+        ],
+        "type": "Point"
+      },
+      "id": "167d74d69c3e3d603b2db38e0a22fd0b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "かきくけこ倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.37334,
+          35.320253
+        ],
+        "type": "Point"
+      },
+      "id": "267683511e22029caf06051a3237e6d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "らりるれろ倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.498921,
+          35.291473
+        ],
+        "type": "Point"
+      },
+      "id": "2a36f66e93ba29ff9f0e321360dc3b57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三井倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.571222,
+          35.052534
+        ],
+        "type": "Point"
+      },
+      "id": "409d1cd423e391041eee0eeb35056362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "たちつてと倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.378501,
+          35.312533
+        ],
+        "type": "Point"
+      },
+      "id": "4743a772595b60625913c9e15dd20a32"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "わをん倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.562572,
+          35.174143
+        ],
+        "type": "Point"
+      },
+      "id": "556ac06d1b122370768e500995dc20fc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "住友倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.486078,
+          35.292761
+        ],
+        "type": "Point"
+      },
+      "id": "59203f61e3d15d6ce7b11f7b96aec39c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安田倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.573969,
+          35.176104
+        ],
+        "type": "Point"
+      },
+      "id": "5e74865d577096d8ba53a5f9aebd2e44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "野村倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.260859,
+          35.436108
+        ],
+        "type": "Point"
+      },
+      "id": "84417177937185c4fce1575efd21b7a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "やゆよ倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.485159,
+          35.285857
+        ],
+        "type": "Point"
+      },
+      "id": "c01d9266755edc2017c45dfb76a8b3df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "三菱倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.370722,
+          35.32414
+        ],
+        "type": "Point"
+      },
+      "id": "e1c522f85e7bd5fdeb4226f30743a744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "なにぬねの倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.362158,
+          35.312533
+        ],
+        "type": "Point"
+      },
+      "id": "e968e5d26752331b324acc260a4bba53"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "まみむめも倉庫",
+        "備考": "〇〇",
+        "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/k/kikutabayashi/20190331/20190331181411.jpg"
+      },
+      "geometry": {
+        "coordinates": [
+          135.248619,
+          35.431766
+        ],
+        "type": "Point"
+      },
+      "id": "ed9a09dfc536917f1f3d0242e6638296"
+    }
+  ],
+  "type": "FeatureCollection"
+}
